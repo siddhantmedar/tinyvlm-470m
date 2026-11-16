@@ -1,6 +1,6 @@
 # LLaMA4-Tiny-VLM
 
-A **470M parameter Vision-Language Model** built entirely from scratch, implementing LLaMA 4 architecture innovations.
+A **470M parameter Vision-Language Model** with a language backbone built from scratch (implementing LLaMA 4 architecture innovations) and a frozen pretrained ViT-B/16 vision encoder.
 
 [![Model on HF](https://img.shields.io/badge/Model-HuggingFace-yellow)](https://huggingface.co/medarsiddhant/llama4-tiny-vlm)
 
